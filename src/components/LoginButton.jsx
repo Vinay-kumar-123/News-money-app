@@ -20,7 +20,7 @@ const LoginButton = () => {
           className="btn btn-primary mx-2 function_button"
           onClick={() => loginWithRedirect()}
         >
-          Log In
+          Sign up
         </button>
       )}
       

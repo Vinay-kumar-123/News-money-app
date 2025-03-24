@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import LoginButton from "./LoginButton";
+import LoginButton from "../components/LoginButton";
 
 
 export default class Navbar extends Component {
